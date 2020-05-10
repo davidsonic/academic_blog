@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DL on Jiali Duan&#39;s Personal Website</title>
+    <link>https://davidsonic.github.io/academic_blog/categories/dl/</link>
+    <description>Recent content in DL on Jiali Duan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 May 2019 14:47:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://davidsonic.github.io/academic_blog/categories/dl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>USC Deep Learning Presentation</title>
+      <link>https://davidsonic.github.io/academic_blog/post/deep-learning/</link>
+      <pubDate>Wed, 01 May 2019 14:47:53 +0800</pubDate>
+      
+      <guid>https://davidsonic.github.io/academic_blog/post/deep-learning/</guid>
+      <description>As TA for USC Deep Learning course (EE599), I was impressed by the representations at the end of this semester from graduate students of USC. More details can be accessed here.</description>
+    </item>
+    
+    <item>
+      <title>Group Seminar Presentation</title>
+      <link>https://davidsonic.github.io/academic_blog/post/group_seminar_physics/</link>
+      <pubDate>Sun, 21 Apr 2019 14:47:53 +0800</pubDate>
+      
+      <guid>https://davidsonic.github.io/academic_blog/post/group_seminar_physics/</guid>
+      <description>Group seminar report, summarizing progress with regard to &amp;ldquo;LEARNING HUMAN-ROBOT AND ROBOT-WORLD INTERACTION&amp;rdquo;. Online website available here.</description>
+    </item>
+    
+  </channel>
+</rss>
