@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jiali Duan&#39;s Personal Website</title>
+    <link>http://davidsonic.github.io/academic_blog/home/</link>
+    <description>Recent content in Homes on Jiali Duan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://davidsonic.github.io/academic_blog/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://davidsonic.github.io/academic_blog/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://davidsonic.github.io/academic_blog/home/about/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/about/</guid>
+      <description>Biography I&amp;rsquo;m about to be a 3rd-year PhD at USC, who is passionate about deep reinforcement learning, robotics and computer vision. My academic site is located at Academic. My supervisor is Prof. C.-C. Jay Kuo and I&amp;rsquo;ve also actively worked with Prof. Stefanos Nikolaidis. Prior to joining MCL, I&amp;rsquo;m fortunate to work with Prof. Stan Z. Li, Shengcai Liao and Jun Wan at National Laboratory of Pattern Recognition, Institute of Aumation, Chinese Academy of Sciences.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://davidsonic.github.io/academic_blog/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://davidsonic.github.io/academic_blog/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://davidsonic.github.io/academic_blog/home/skills/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://davidsonic.github.io/academic_blog/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>http://davidsonic.github.io/academic_blog/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://davidsonic.github.io/academic_blog/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://davidsonic.github.io/academic_blog/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activity</title>
+      <link>http://davidsonic.github.io/academic_blog/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://davidsonic.github.io/academic_blog/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://davidsonic.github.io/academic_blog/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://davidsonic.github.io/academic_blog/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://davidsonic.github.io/academic_blog/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
