@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Full-stack on Jiali Duan&#39;s Personal Website</title>
-    <link>http://davidsonic.github.io/academic_blog/categories/full-stack/</link>
+    <link>https://davidsonic.github.io/academic_blog/categories/full-stack/</link>
     <description>Recent content in Full-stack on Jiali Duan&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 10 Apr 2018 14:47:53 +0800</lastBuildDate>
     
-	<atom:link href="http://davidsonic.github.io/academic_blog/categories/full-stack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidsonic.github.io/academic_blog/categories/full-stack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MIT-LIDS ALUM website now online</title>
-      <link>http://davidsonic.github.io/academic_blog/post/mit-lids/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/mit-lids/</link>
       <pubDate>Tue, 10 Apr 2018 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/mit-lids/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/mit-lids/</guid>
       <description>Full-featured MIT-LIDS ALUM website is now deployed on Amazon webservice at: http://www.lids-alum.org . It now serves as the portal site for MIT ALUMs.</description>
     </item>
     

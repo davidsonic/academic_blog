@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Generative Adversarial Networks on Jiali Duan&#39;s Personal Website</title>
-    <link>http://davidsonic.github.io/academic_blog/tags/generative-adversarial-networks/</link>
+    <link>https://davidsonic.github.io/academic_blog/tags/generative-adversarial-networks/</link>
     <description>Recent content in Generative Adversarial Networks on Jiali Duan&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 21 Apr 2019 14:47:53 +0800</lastBuildDate>
     
-	<atom:link href="http://davidsonic.github.io/academic_blog/tags/generative-adversarial-networks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidsonic.github.io/academic_blog/tags/generative-adversarial-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Group Seminar Presentation</title>
-      <link>http://davidsonic.github.io/academic_blog/post/group_seminar_physics/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/group_seminar_physics/</link>
       <pubDate>Sun, 21 Apr 2019 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/group_seminar_physics/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/group_seminar_physics/</guid>
       <description>Group seminar report, summarizing progress with regard to &amp;ldquo;LEARNING HUMAN-ROBOT AND ROBOT-WORLD INTERACTION&amp;rdquo;. Online website available at: https://davidsonic.github.io/summary/physical_inference#/.</description>
     </item>
     
     <item>
       <title>Guest Lecture for EE599 (USC Deep Learning Course)</title>
-      <link>http://davidsonic.github.io/academic_blog/post/guest-lecture-ee599/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/guest-lecture-ee599/</link>
       <pubDate>Mon, 04 Mar 2019 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/guest-lecture-ee599/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/guest-lecture-ee599/</guid>
       <description>Presentation slides can be accessed via browser on computer or mobile devices: https://davidsonic.github.io/summary/guest-lecture-gan.html#/</description>
     </item>
     

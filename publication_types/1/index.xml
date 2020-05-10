@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Jiali Duan&#39;s Personal Website</title>
-    <link>http://davidsonic.github.io/academic_blog/publication_types/1/</link>
+    <link>https://davidsonic.github.io/academic_blog/publication_types/1/</link>
     <description>Recent content in 1 on Jiali Duan&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 20 Apr 2019 13:24:23 +0800</lastBuildDate>
     
-	<atom:link href="http://davidsonic.github.io/academic_blog/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidsonic.github.io/academic_blog/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Robust Grasping via Human Adversary</title>
-      <link>http://davidsonic.github.io/academic_blog/publication/robot-socal/</link>
+      <link>https://davidsonic.github.io/academic_blog/publication/robot-socal/</link>
       <pubDate>Sat, 20 Apr 2019 13:24:23 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/publication/robot-socal/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/publication/robot-socal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robot Learning via Human Adversarial Games</title>
-      <link>http://davidsonic.github.io/academic_blog/publication/robot-iros/</link>
+      <link>https://davidsonic.github.io/academic_blog/publication/robot-iros/</link>
       <pubDate>Mon, 04 Mar 2019 13:24:23 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/publication/robot-iros/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/publication/robot-iros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AN INTERPRETABLE GENERATIVE MODEL FOR HANDWRITTEN DIGIT IMAGE SYNTHESIS</title>
-      <link>http://davidsonic.github.io/academic_blog/publication/digit-syn/</link>
+      <link>https://davidsonic.github.io/academic_blog/publication/digit-syn/</link>
       <pubDate>Wed, 24 Oct 2018 13:24:23 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/publication/digit-syn/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/publication/digit-syn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable Convolutional Neural Networks via Feedforward Design</title>
-      <link>http://davidsonic.github.io/academic_blog/publication/interpretable/</link>
+      <link>https://davidsonic.github.io/academic_blog/publication/interpretable/</link>
       <pubDate>Mon, 24 Sep 2018 13:24:23 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/publication/interpretable/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/publication/interpretable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PortraitGAN for Flexible Portrait Manipulation</title>
-      <link>http://davidsonic.github.io/academic_blog/publication/portraitgan/</link>
+      <link>https://davidsonic.github.io/academic_blog/publication/portraitgan/</link>
       <pubDate>Fri, 24 Aug 2018 13:24:23 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/publication/portraitgan/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/publication/portraitgan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Face Detection by Aggregating Visible Components</title>
-      <link>http://davidsonic.github.io/academic_blog/publication/face-detect/</link>
+      <link>https://davidsonic.github.io/academic_blog/publication/face-detect/</link>
       <pubDate>Sun, 24 Jul 2016 13:41:29 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/publication/face-detect/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/publication/face-detect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Face Classification: A Specialized Benchmark Study</title>
-      <link>http://davidsonic.github.io/academic_blog/publication/face-classify/</link>
+      <link>https://davidsonic.github.io/academic_blog/publication/face-classify/</link>
       <pubDate>Tue, 24 May 2016 13:45:31 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/publication/face-classify/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/publication/face-classify/</guid>
       <description></description>
     </item>
     

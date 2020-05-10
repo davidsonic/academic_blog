@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DRL on Jiali Duan&#39;s Personal Website</title>
-    <link>http://davidsonic.github.io/academic_blog/categories/drl/</link>
+    <link>https://davidsonic.github.io/academic_blog/categories/drl/</link>
     <description>Recent content in DRL on Jiali Duan&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 07 Nov 2019 14:47:53 +0800</lastBuildDate>
     
-	<atom:link href="http://davidsonic.github.io/academic_blog/categories/drl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidsonic.github.io/academic_blog/categories/drl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>USC Media Coverage of Our Work!</title>
-      <link>http://davidsonic.github.io/academic_blog/post/robot-tough-love/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/robot-tough-love/</link>
       <pubDate>Thu, 07 Nov 2019 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/robot-tough-love/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/robot-tough-love/</guid>
       <description>More details are here</description>
     </item>
     
     <item>
       <title>USC Robotics Open House</title>
-      <link>http://davidsonic.github.io/academic_blog/post/open-house/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/open-house/</link>
       <pubDate>Sat, 20 Apr 2019 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/open-house/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/open-house/</guid>
       <description>Our demo in exhibition for USC Robotics Open House. My colleagues and I presented &amp;ldquo;Robust Grasping via Human Adversarial&amp;rdquo; to visitors and explained the motivation behind the algorithm. Our demo is implemented in customized simulation environment based on physics engine mujoco and supports real-time human interactions.
 During the day, we give users the opportunity to apply perturbations to objects via keyboards and mouse, and we show that the manipulator&amp;rsquo;s grasping skill as well as robustness increases over time.</description>
     </item>
     
     <item>
       <title>Robust Grasping with Adversary</title>
-      <link>http://davidsonic.github.io/academic_blog/post/robust_mainpulator/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/robust_mainpulator/</link>
       <pubDate>Fri, 18 Jan 2019 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/robust_mainpulator/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/robust_mainpulator/</guid>
       <description>In the context of reinforcement learning, Mujoco + gym is more popular than Gazebo in research that involve robotics. However, mujoco-py released by OpenAI doesn&amp;rsquo;t provide full flexibility compared to original Mujoco C++ API. In a recent work of mine, I upgraded mujoco-py==1.5.0 that supports:
  Interactive manipulation as provided by simulate in Mujoco, written in Cython
  Force visualization similar to deepmind-control but allows for headless rendering
@@ -45,20 +45,20 @@ During the day, we give users the opportunity to apply perturbations to objects 
     
     <item>
       <title>Review DDPG</title>
-      <link>http://davidsonic.github.io/academic_blog/post/ddpg/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/ddpg/</link>
       <pubDate>Sun, 13 Jan 2019 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/ddpg/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/ddpg/</guid>
       <description>Deterministic policy gradient is a variation of A2C, but is off-policy. In A2C, the actor estimates the stochastic policy, either in the form of probability distribute over discrete actions or, the parameters fo normal distribution. DPG also belong to the A2C family, but its policy is deterministic. This makes it possible to apply the chain rule to maximize the Q-value.
 DPG has to components. First is the actor. In a continuous action domain, every action is a number, so the actor network will take the state as input and output N values, one for each action.</description>
     </item>
     
     <item>
       <title>Language guided visual 3D indoor navigation</title>
-      <link>http://davidsonic.github.io/academic_blog/post/3d-indoor/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/3d-indoor/</link>
       <pubDate>Sat, 03 Nov 2018 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/3d-indoor/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/3d-indoor/</guid>
       <description>Poster for this research is available at https://davidsonic.github.io/summary/Poster_3d_indoor.pdf
 News about the project is http://mcl.usc.edu/news/2018/12/02/mcl-research-on-re-enforcement-learning/
 Trajectory visualization is at http://mcl-lab.usc.edu:3000/trajectory.html
@@ -67,10 +67,10 @@ Brief report for this project is https://davidsonic.github.io/summary/EE546Final
     
     <item>
       <title>Group Seminar Presentation on RL introduction</title>
-      <link>http://davidsonic.github.io/academic_blog/post/drl/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/drl/</link>
       <pubDate>Wed, 10 Oct 2018 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/drl/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/drl/</guid>
       <description>This group seminar presents an introduction to RL and its interesting applications. See my slide at &amp;ldquo;https://davidsonic.github.io/summary/#/&amp;quot;.
 A more fundamental intro is at https://davidsonic.github.io/summary/index_bak_bak.html#/ .</description>
     </item>

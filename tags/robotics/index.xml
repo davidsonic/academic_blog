@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics on Jiali Duan&#39;s Personal Website</title>
-    <link>http://davidsonic.github.io/academic_blog/tags/robotics/</link>
+    <link>https://davidsonic.github.io/academic_blog/tags/robotics/</link>
     <description>Recent content in Robotics on Jiali Duan&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 07 Nov 2019 14:47:53 +0800</lastBuildDate>
     
-	<atom:link href="http://davidsonic.github.io/academic_blog/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidsonic.github.io/academic_blog/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>USC Media Coverage of Our Work!</title>
-      <link>http://davidsonic.github.io/academic_blog/post/robot-tough-love/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/robot-tough-love/</link>
       <pubDate>Thu, 07 Nov 2019 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/robot-tough-love/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/robot-tough-love/</guid>
       <description>More details are here</description>
     </item>
     
     <item>
       <title>USC Robotics Open House</title>
-      <link>http://davidsonic.github.io/academic_blog/post/open-house/</link>
+      <link>https://davidsonic.github.io/academic_blog/post/open-house/</link>
       <pubDate>Sat, 20 Apr 2019 14:47:53 +0800</pubDate>
       
-      <guid>http://davidsonic.github.io/academic_blog/post/open-house/</guid>
+      <guid>https://davidsonic.github.io/academic_blog/post/open-house/</guid>
       <description>Our demo in exhibition for USC Robotics Open House. My colleagues and I presented &amp;ldquo;Robust Grasping via Human Adversarial&amp;rdquo; to visitors and explained the motivation behind the algorithm. Our demo is implemented in customized simulation environment based on physics engine mujoco and supports real-time human interactions.
 During the day, we give users the opportunity to apply perturbations to objects via keyboards and mouse, and we show that the manipulator&amp;rsquo;s grasping skill as well as robustness increases over time.</description>
     </item>
