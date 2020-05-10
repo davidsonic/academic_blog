@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jiali Duan&#39;s Personal Website</title>
+    <link>http://davidsonic.github.io/publication/</link>
+    <description>Recent content in Publications on Jiali Duan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://davidsonic.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robust Grasping via Human Adversary</title>
+      <link>http://davidsonic.github.io/publication/robot-socal/</link>
+      <pubDate>Sat, 20 Apr 2019 13:24:23 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/robot-socal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Learning via Human Adversarial Games</title>
+      <link>http://davidsonic.github.io/publication/robot-iros/</link>
+      <pubDate>Mon, 04 Mar 2019 13:24:23 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/robot-iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN INTERPRETABLE GENERATIVE MODEL FOR HANDWRITTEN DIGIT IMAGE SYNTHESIS</title>
+      <link>http://davidsonic.github.io/publication/digit-syn/</link>
+      <pubDate>Wed, 24 Oct 2018 13:24:23 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/digit-syn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Convolutional Neural Networks via Feedforward Design</title>
+      <link>http://davidsonic.github.io/publication/interpretable/</link>
+      <pubDate>Mon, 24 Sep 2018 13:24:23 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PortraitGAN for Flexible Portrait Manipulation</title>
+      <link>http://davidsonic.github.io/publication/portraitgan/</link>
+      <pubDate>Fri, 24 Aug 2018 13:24:23 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/portraitgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Framework for Multi-Modal Isolated Gesture Recognition</title>
+      <link>http://davidsonic.github.io/publication/multi-model/</link>
+      <pubDate>Thu, 24 Aug 2017 13:33:14 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/multi-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Modality Fusion based on Consensus-Voting and 3D Convolution for Isolated Gesture Recognition</title>
+      <link>http://davidsonic.github.io/publication/gesture-recog/</link>
+      <pubDate>Wed, 24 Aug 2016 13:36:55 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/gesture-recog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face Detection by Aggregating Visible Components</title>
+      <link>http://davidsonic.github.io/publication/face-detect/</link>
+      <pubDate>Sun, 24 Jul 2016 13:41:29 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/face-detect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face Classification: A Specialized Benchmark Study</title>
+      <link>http://davidsonic.github.io/publication/face-classify/</link>
+      <pubDate>Tue, 24 May 2016 13:45:31 +0800</pubDate>
+      
+      <guid>http://davidsonic.github.io/publication/face-classify/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
