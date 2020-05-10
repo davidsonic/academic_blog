@@ -11,6 +11,17 @@
     <atom:link href="/academic_blog/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Chair for USC Deep Learning Course Presentation</title>
+      <link>https://davidsonic.github.io/academic_blog/post/deeplearn-chair/</link>
+      <pubDate>Wed, 06 May 2020 17:00:53 +0800</pubDate>
+      
+      <guid>https://davidsonic.github.io/academic_blog/post/deeplearn-chair/</guid>
+      <description>&lt;p&gt;Serve as chair for Computer Vision Session of the USC Deep Learning Course 2020 Spring.
+More details can be accessed &lt;a href=&#34;https://deeplearning.usc-ece.com/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Guest Lecture for EE599-2020 (USC Deep Learning Course)</title>
       <link>https://davidsonic.github.io/academic_blog/post/guest-lec-ee599-2020/</link>
       <pubDate>Wed, 08 Apr 2020 17:00:53 +0800</pubDate>
@@ -57,7 +68,7 @@
       
       <guid>https://davidsonic.github.io/academic_blog/post/deep-learning/</guid>
       <description>&lt;p&gt;As TA for USC Deep Learning course (EE599), I was impressed by the representations at the end of this semester from graduate students of USC.
-More details can be accessed &lt;a href=&#34;http://deeplearning.usc-ece.com/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+More details can be accessed &lt;a href=&#34;https://deeplearning.usc-ece.com/index-2019.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -201,15 +212,6 @@ leverages a replay buffer to improve sample efficiency just like DQN.&lt;/p&gt;
       <pubDate>Wed, 24 Oct 2018 17:03:21 +0800</pubDate>
       
       <guid>https://davidsonic.github.io/academic_blog/project/rl-indoor-navigation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AN INTERPRETABLE GENERATIVE MODEL FOR HANDWRITTEN DIGIT IMAGE SYNTHESIS</title>
-      <link>https://davidsonic.github.io/academic_blog/publication/digit-syn/</link>
-      <pubDate>Wed, 24 Oct 2018 13:24:23 +0800</pubDate>
-      
-      <guid>https://davidsonic.github.io/academic_blog/publication/digit-syn/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 May 2019 14:47:53 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 17:00:53 +0800</lastBuildDate>
     
 	<atom:link href="https://davidsonic.github.io/academic_blog/categories/dl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chair for USC Deep Learning Course Presentation</title>
+      <link>https://davidsonic.github.io/academic_blog/post/deeplearn-chair/</link>
+      <pubDate>Wed, 06 May 2020 17:00:53 +0800</pubDate>
+      
+      <guid>https://davidsonic.github.io/academic_blog/post/deeplearn-chair/</guid>
+      <description>Serve as chair for Computer Vision Session of the USC Deep Learning Course 2020 Spring. More details can be accessed here.</description>
+    </item>
     
     <item>
       <title>USC Deep Learning Presentation</title>
